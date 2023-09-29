@@ -1,0 +1,189 @@
+/* Estilos CSS para el cuerpo */
+.body {
+    margin: 0;
+    padding: 0;
+
+}
+/* --------------------------------------------- */
+
+
+/* Estilo para el contenedor de la imagen de fondo */
+.imgf {
+    position: relative;
+    text-align: center;
+  }
+  
+  /* Estilo para la imagen de portada */
+  .img1 {
+    width: 100%;
+    height: 940px;
+  }
+  
+  /* Estilo para el texto en la imagen */
+  .txti {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: rgb(255, 255, 255);
+  }
+  /* --------------------------------------------- */
+  
+
+  /* Estilo para el título en la imagen */
+  .txti h1 {
+    font-size: 50px;
+    margin-bottom: 10px;
+    background-color: rgba(0, 0, 0, 0.7) ;
+    padding: auto;
+    font-family: 'Inclusive Sans', sans-serif;
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-family: 'Playfair Display', serif;
+    
+  }
+  /* --------------------------------------------- */
+  
+
+  /* Estilo para el subtítulo en la imagen */
+  .txti h2 {
+    font-size: 38px;
+    margin-top: 0;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: auto;
+    font-style: italic;
+    font-family: 'Inclusive Sans', sans-serif;
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-family: 'Playfair Display', serif;
+  }
+/* --------------------------------------------- */
+
+ /* Estilos CSS para el título 2*/
+ .tt1 {
+    text-align: left;
+    margin-top: 20px;
+    
+}
+
+.tt1 {
+    font-size: 40px;
+    font-family: 'Inclusive Sans', sans-serif;
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+}
+/* --------------------------------------------- */
+
+
+/* Estilos CSS para la barra horizontal tipo 1 */
+.lm1 {
+    border: none;
+    border-bottom: 1px solid #bbbbbb; 
+    width: 100%;
+    padding-bottom: 45px;
+}
+/* --------------------------------------------- */
+
+
+/* Estilos CSS para la barra horizontal tipo 2 */
+.lm2 {
+    border: none;
+    border-bottom: 1px solid #bbbbbb; 
+    width: 100%;
+    padding-top: 150px;
+}
+/* --------------------------------------------- */
+
+
+/* Estilos CSS para la imagen 2 */
+.img2 {
+    display: block; 
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    height: 710px;
+}
+/* --------------------------------------------- */
+
+
+/* Estilos CSS para los otros titulos */
+.tt2 {
+    font-size: 55px;
+    text-align: center;
+    background-color: rgba(251, 255, 0, 0.7);
+    font-family: 'Inclusive Sans', sans-serif;
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-family: 'Playfair Display', serif;
+}
+/* --------------------------------------------- */
+
+
+/* Estilos CSS para los otros subtitulos */
+.s {
+    font-size: 35px;
+    text-decoration: underline;
+    font-style: italic;
+    text-align: center;
+
+}
+/* --------------------------------------------- */
+
+
+/* Estilos CSS para los otros parrafos */
+.pr2 {
+    font-size: 24px;
+    text-align: center;
+    font-style: justify;
+    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Inclusive Sans', sans-serif;
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-family: 'Playfair Display', serif;
+    padding-left: 450px;
+    padding-right: 450px;
+}
+/* --------------------------------------------- */
+
+/* Estilos CSS para los otros parrafos */
+.pr3 {
+    font-size: 35px;
+    text-align: center;
+    font-style: justify;
+    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Inclusive Sans', sans-serif;
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Quicksand', sans-serif;
+    padding-left: 450px;
+    padding-right: 450px;
+    padding-bottom: 30px;
+}
+/* --------------------------------------------- */
+
+
+
+/* Estilos CSS para el resto de imagenes */
+.img3 {
+    display: block; 
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: 310px;
+}
+/* --------------------------------------------- */
+
+/* Estilos para pie de página */
+.footer {
+    background-color: black; /* Color de fondo negro */
+    color: white; /* Color del texto blanco */
+    text-align: center;
+    padding: 10px 0; /* Espaciado interior para contenido del pie de página */
+    font-size: 15px;
+    width: 100%;
+}
+/* --------------------------------------------- */
