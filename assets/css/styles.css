@@ -103,8 +103,8 @@
     display: block; 
     margin-left: auto;
     margin-right: auto;
-    width: 800px;
-    height: 710px;
+    width: 600px;
+    height: 650px;
 }
 /* --------------------------------------------- */
 
@@ -150,7 +150,7 @@
 
 /* Estilos CSS para los otros parrafos */
 .pr3 {
-    font-size: 35px;
+    font-size: 30px;
     text-align: center;
     font-style: justify;
     font-family: 'Cormorant Garamond', serif;
